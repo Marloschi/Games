@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eeecc374-2f49-41db-98a7-4767e2469b53" name="Default Changelist" comment="Slick Add Objects (Actors)">
-      <change afterPath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/CircleActor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/OvalActor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/WinterGame.java" afterDir="false" />
+    <list default="true" id="eeecc374-2f49-41db-98a7-4767e2469b53" name="Default Changelist" comment="Strategy Pattern">
+      <change afterPath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/AbstractActor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/games/strategypattern/CircleActor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/games/strategypattern/CircleActor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/games/strategypattern/OvalActor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/games/strategypattern/RectangleActor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/games/strategypattern/RectangleActor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/CircleActor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/CircleActor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/RectangleActor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/RectangleActor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -53,7 +55,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -155,7 +157,7 @@
       <workItem from="1673013626819" duration="79000" />
       <workItem from="1673210198972" duration="7566000" />
       <workItem from="1673274706613" duration="1831000" />
-      <workItem from="1673356207114" duration="2521000" />
+      <workItem from="1673356207114" duration="3190000" />
     </task>
     <task id="LOCAL-00001" summary="Rectangle Diagonal">
       <created>1673210402263</created>
@@ -206,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673219498575</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Strategy Pattern">
+      <created>1673358847414</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673358847414</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,7 +243,8 @@
     <MESSAGE value="Slich First Game" />
     <MESSAGE value="Slick First Game" />
     <MESSAGE value="Slick Add Objects (Actors)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Slick Add Objects (Actors)" />
+    <MESSAGE value="Strategy Pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Strategy Pattern" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
