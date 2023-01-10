@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eeecc374-2f49-41db-98a7-4767e2469b53" name="Default Changelist" comment="Slick Add Objects (Actors)" />
+    <list default="true" id="eeecc374-2f49-41db-98a7-4767e2469b53" name="Default Changelist" comment="Slick Add Objects (Actors)">
+      <change afterPath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/CircleActor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/OvalActor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/WinterGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +28,7 @@
     <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,7 +46,7 @@
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
     "code.cleanup.on.save": "true",
-    "last_opened_file_path": "C:/Users/Marlo Mitterlehner/Desktop/Games",
+    "last_opened_file_path": "C:/Users/Marlo Mitterlehner/Desktop/Games/src/at/marlo/games/strategypattern",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,20 +57,15 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.WinterGame">
-    <configuration name="AnimationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.newdawn.slick.tests.AnimationTest" />
-      <module name="Slick2DTemplate" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.newdawn.slick.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Marlo Mitterlehner\Desktop\Games\src\at\marlo\games\strategypattern" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="at.marlo.games.strategypattern" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.at.marlo.games.strategypattern.WinterGame">
     <configuration name="MainGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="at.marlo.games.wintergame.MainGame" />
       <module name="Slick2DTemplate" />
@@ -117,13 +118,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="at.marlo.games.strategypattern.WinterGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="at.marlo.games.strategypattern.WinterGame" />
+      <module name="Slick2DTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.marlo.games.strategypattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.at.marlo.games.strategypattern.WinterGame" />
         <item itemvalue="Application.WinterGame" />
         <item itemvalue="Application.WinterGameWithoutActor" />
         <item itemvalue="Application.Rectangles" />
         <item itemvalue="Application.MainGame" />
-        <item itemvalue="Application.AnimationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +154,8 @@
       <updated>1582964206231</updated>
       <workItem from="1673013626819" duration="79000" />
       <workItem from="1673210198972" duration="7566000" />
-      <workItem from="1673274706613" duration="1642000" />
+      <workItem from="1673274706613" duration="1831000" />
+      <workItem from="1673356207114" duration="2521000" />
     </task>
     <task id="LOCAL-00001" summary="Rectangle Diagonal">
       <created>1673210402263</created>
