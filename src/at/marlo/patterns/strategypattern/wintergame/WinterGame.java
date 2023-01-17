@@ -1,4 +1,4 @@
-package at.marlo.games.strategypattern;
+package at.marlo.patterns.strategypattern.wintergame;
 
 
 import org.newdawn.slick.*;
@@ -39,6 +39,7 @@ public class WinterGame extends BasicGame {
         CircleActor c1 = new CircleActor(moveRight1);
         CircleActor c2 = new CircleActor(moveLeft1);
         RectangleActor r1 = new RectangleActor(moveLeft2);
+
 
         this.actors.add(c1);
         this.actors.add(c2);

@@ -1,4 +1,4 @@
-package at.marlo.games.strategypattern;
+package at.marlo.patterns.strategypattern.wintergame;
 
 import org.newdawn.slick.GameContainer;
 import org.newdawn.slick.Graphics;

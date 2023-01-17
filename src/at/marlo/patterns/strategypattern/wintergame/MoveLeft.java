@@ -1,4 +1,4 @@
-package at.marlo.games.strategypattern;
+package at.marlo.patterns.strategypattern.wintergame;
 
 public class MoveLeft implements MoveStrategy {
     float x, y, speed;

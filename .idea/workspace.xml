@@ -4,14 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eeecc374-2f49-41db-98a7-4767e2469b53" name="Default Changelist" comment="Strategy Pattern">
-      <change afterPath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/AbstractActor.java" afterDir="false" />
+    <list default="true" id="eeecc374-2f49-41db-98a7-4767e2469b53" name="Default Changelist" comment="Abstract Class">
+      <change afterPath="$PROJECT_DIR$/src/at/marlo/patterns/observerpattern/voltage/Dishwasher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/marlo/patterns/observerpattern/voltage/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/marlo/patterns/observerpattern/voltage/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/marlo/patterns/observerpattern/voltage/Sonnenkollektor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/marlo/patterns/strategypattern/dog/AbstractDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/marlo/patterns/strategypattern/dog/Boxer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/marlo/patterns/strategypattern/dog/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/marlo/patterns/strategypattern/dog/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/marlo/patterns/strategypattern/dog/WuffWuff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/marlo/patterns/strategypattern/dog/Wuuuuuuuf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/marlo/patterns/strategypattern/dog/wufStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/games/strategypattern/CircleActor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/games/strategypattern/CircleActor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/games/strategypattern/OvalActor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/games/strategypattern/RectangleActor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/games/strategypattern/RectangleActor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/CircleActor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/CircleActor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/RectangleActor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/RectangleActor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/games/strategypattern/Actor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/games/strategypattern/CircleActor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/games/strategypattern/MoveLeft.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/games/strategypattern/MoveRight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/games/strategypattern/MoveStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/games/strategypattern/RectangleActor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/games/strategypattern/WinterGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/AbstractActor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/marlo/patterns/strategypattern/wintergame/AbstractActor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/marlo/patterns/strategypattern/wintergame/Actor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/CircleActor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/marlo/patterns/strategypattern/wintergame/CircleActor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/MoveLeft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/marlo/patterns/strategypattern/wintergame/MoveLeft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/MoveRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/marlo/patterns/strategypattern/wintergame/MoveRight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/MoveStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/marlo/patterns/strategypattern/wintergame/MoveStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/RectangleActor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/marlo/patterns/strategypattern/wintergame/RectangleActor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/marlo/games/strategypattern/WinterGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/marlo/patterns/strategypattern/wintergame/WinterGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,49 +65,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "code.cleanup.on.save": "true",
-    "last_opened_file_path": "C:/Users/Marlo Mitterlehner/Desktop/Games/src/at/marlo/games/strategypattern",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Marlo Mitterlehner/Desktop/Games/src/at/marlo/games/observerPattern&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Marlo Mitterlehner\Desktop\Games\src\at\marlo\games\observerPattern" />
       <recent name="C:\Users\Marlo Mitterlehner\Desktop\Games\src\at\marlo\games\strategypattern" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="at.marlo.games.strategypattern" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.at.marlo.games.strategypattern.WinterGame">
-    <configuration name="MainGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="at.marlo.games.wintergame.MainGame" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="at.marlo.patterns.strategypattern.dog.Main" />
       <module name="Slick2DTemplate" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="at.marlo.games.wintergamewithoutactor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Rectangles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="at.marlo.games.firstgame.Rectangles" />
-      <module name="Slick2DTemplate" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="at.marlo.games.firstgame.*" />
+          <option name="PATTERN" value="at.marlo.patterns.strategypattern.dog.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +128,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="at.marlo.games.strategypattern.WinterGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="at.marlo.games.strategypattern.WinterGame" />
+    <configuration name="at.marlo.games.observerPattern.WinterGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="at.marlo.games.observerPattern.WinterGame" />
       <module name="Slick2DTemplate" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="at.marlo.games.strategypattern.*" />
+          <option name="PATTERN" value="at.marlo.games.observerPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="at.marlo.strategy.strategypattern.WinterGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="at.marlo.strategy.strategypattern.WinterGame" />
+      <module name="Slick2DTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.marlo.strategy.strategypattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.at.marlo.games.strategypattern.WinterGame" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.at.marlo.games.observerPattern.WinterGame" />
+        <item itemvalue="Application.at.marlo.strategy.strategypattern.WinterGame" />
         <item itemvalue="Application.WinterGame" />
         <item itemvalue="Application.WinterGameWithoutActor" />
-        <item itemvalue="Application.Rectangles" />
-        <item itemvalue="Application.MainGame" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +178,10 @@
       <workItem from="1673013626819" duration="79000" />
       <workItem from="1673210198972" duration="7566000" />
       <workItem from="1673274706613" duration="1831000" />
-      <workItem from="1673356207114" duration="3190000" />
+      <workItem from="1673356207114" duration="6839000" />
+      <workItem from="1673879035513" duration="2750000" />
+      <workItem from="1673881914535" duration="390000" />
+      <workItem from="1673960914195" duration="1290000" />
     </task>
     <task id="LOCAL-00001" summary="Rectangle Diagonal">
       <created>1673210402263</created>
@@ -215,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673358847414</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Abstract Class">
+      <created>1673359508167</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673359508167</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +275,8 @@
     <MESSAGE value="Slick First Game" />
     <MESSAGE value="Slick Add Objects (Actors)" />
     <MESSAGE value="Strategy Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Strategy Pattern" />
+    <MESSAGE value="Abstract Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstract Class" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
