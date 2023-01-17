@@ -1,4 +1,4 @@
-package at.marlo.patterns.strategypattern.dog;
+package at.marlo.patterns.strategy.dog;
 
 public abstract class AbstractDog implements Dog {
 

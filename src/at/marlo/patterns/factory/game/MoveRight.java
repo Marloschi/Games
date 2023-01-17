@@ -1,17 +1,17 @@
-package at.marlo.patterns.strategypattern.wintergame;
+package at.marlo.patterns.factory.game;
 
-public class MoveLeft implements MoveStrategy {
+public class MoveRight implements MoveStrategy {
     float x, y, speed;
 
 
-    public MoveLeft(float x, float y, float speed) {
+    public MoveRight(float x, float y, float speed) {
         this.x = x;
         this.y = y;
         this.speed = speed;
     }
 
     public void update(int delta) {
-        this.x -= delta * speed;
+        this.x += delta * speed;
     }
 
     public float getX() {

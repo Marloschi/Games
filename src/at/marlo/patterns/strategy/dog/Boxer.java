@@ -1,4 +1,4 @@
-package at.marlo.patterns.strategypattern.dog;
+package at.marlo.patterns.strategy.dog;
 
 public class Boxer extends AbstractDog {
 

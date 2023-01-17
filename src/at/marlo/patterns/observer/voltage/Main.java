@@ -1,4 +1,4 @@
-package at.marlo.patterns.observerpattern.voltage;
+package at.marlo.patterns.observer.voltage;
 
 public class Main {
     public static void main(String[] args) {

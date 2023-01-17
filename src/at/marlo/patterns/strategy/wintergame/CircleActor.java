@@ -1,4 +1,4 @@
-package at.marlo.patterns.strategypattern.wintergame;
+package at.marlo.patterns.strategy.wintergame;
 
 import org.newdawn.slick.Graphics;
 

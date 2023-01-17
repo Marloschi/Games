@@ -1,4 +1,4 @@
-package at.marlo.patterns.observerpattern.voltage;
+package at.marlo.patterns.observer.voltage;
 
 import java.util.ArrayList;
 import java.util.List;
