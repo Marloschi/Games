@@ -10,13 +10,13 @@ public class Factory {
         int number = random.nextInt(3);
 
         if (number == 0) {
-            return new Bee();
+            return new Bee("Dafid " + random.nextInt(999));
         }
         if (number == 1) {
-            return new Ant();
+            return new Ant("Floflo " + random.nextInt(999));
         }
 
-        return new Wolf();
+        return new Wolf("Wolfi " + random.nextInt(999));
     }
 
 }

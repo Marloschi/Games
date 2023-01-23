@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eeecc374-2f49-41db-98a7-4767e2469b53" name="Default Changelist" comment="Observer">
-      <change afterPath="$PROJECT_DIR$/src/at/marlo/patterns/factory/beispiel/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/at/marlo/patterns/factory/beispiel/Ant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/at/marlo/patterns/factory/beispiel/Bee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/at/marlo/patterns/factory/beispiel/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/at/marlo/patterns/factory/beispiel/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/at/marlo/patterns/factory/beispiel/Wolf.java" afterDir="false" />
+    <list default="true" id="eeecc374-2f49-41db-98a7-4767e2469b53" name="Default Changelist" comment="Factory">
+      <change afterPath="$PROJECT_DIR$/src/at/marlo/patterns/factory/beispiel/AbstractActor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/patterns/factory/beispiel/Ant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/patterns/factory/beispiel/Ant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/patterns/factory/beispiel/Bee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/patterns/factory/beispiel/Bee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/patterns/factory/beispiel/Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/patterns/factory/beispiel/Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/patterns/factory/beispiel/Wolf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/marlo/patterns/factory/beispiel/Wolf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/marlo/patterns/factory/beispiel/Ant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/marlo/patterns/factory/beispiel/Ant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/marlo/patterns/factory/beispiel/Bee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/marlo/patterns/factory/beispiel/Bee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/marlo/patterns/factory/beispiel/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/marlo/patterns/factory/beispiel/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/marlo/patterns/factory/beispiel/Wolf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/marlo/patterns/factory/beispiel/Wolf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +167,7 @@
       <workItem from="1673879035513" duration="2750000" />
       <workItem from="1673881914535" duration="390000" />
       <workItem from="1673960914195" duration="6261000" />
-      <workItem from="1674482055147" duration="1351000" />
+      <workItem from="1674482055147" duration="2967000" />
     </task>
     <task id="LOCAL-00001" summary="Rectangle Diagonal">
       <created>1673210402263</created>
@@ -243,7 +246,28 @@
       <option name="project" value="LOCAL" />
       <updated>1673966298152</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Factory">
+      <created>1674483505572</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674483505572</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Factory">
+      <created>1674483537995</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674483537995</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Factory">
+      <created>1674483548533</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674483548533</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,7 +298,8 @@
     <MESSAGE value="Strategy Pattern" />
     <MESSAGE value="Abstract Class" />
     <MESSAGE value="Observer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Observer" />
+    <MESSAGE value="Factory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Factory" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
