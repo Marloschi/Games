@@ -11,10 +11,8 @@ public class CounterSingleton {
     public static CounterSingleton getInstance() {
         if (instance == null) {
             instance = new CounterSingleton();
-            return instance;
-        } else {
-            return instance;
         }
+        return instance;
     }
 
     public void increaseCounter() {
